@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/seu_banco
-    username: seu_usuario
+    url: jdbc:postgresql://localhost:5432/stock_db
+    username: postgres
     password: admin123
     driver-class-name: org.postgresql.Driver
   jpa:
